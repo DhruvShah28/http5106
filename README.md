@@ -1,2 +1,4 @@
-# http5106
-Files from HTTP5106 Course Intro Design for interaction
+# HTTP5106
+Intro Design for Interaction
+
+[Figma](figma.com)
